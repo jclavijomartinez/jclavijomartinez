@@ -15,7 +15,7 @@
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 
 ### Lenguajes y Herramientas:
