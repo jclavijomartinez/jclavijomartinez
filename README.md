@@ -11,7 +11,7 @@
 
 ### Contactame en:
 
-[(jclavijomartinez/img/gmail.svg)](jclavijomartinez@gmail.com)
+[(./img/gmail.svg)(jclavijomartinez@gmail.com)]
 
 
 
