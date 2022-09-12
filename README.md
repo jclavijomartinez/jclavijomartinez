@@ -11,7 +11,7 @@
 
 ### Contactame en:
 
-[(./img/gmail.svg)(jclavijomartinez@gmail.com)]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./img/gmail.svg" style="padding-right:10px;" />](jclavijomartinez@gmail.com)
 
 
 
