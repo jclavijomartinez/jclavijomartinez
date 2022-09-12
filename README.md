@@ -11,7 +11,7 @@
 
 ### Contactame en:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[(./img/gmail.svg)](mailto: jclavijomartinez@gmail.com)
 
 
 
