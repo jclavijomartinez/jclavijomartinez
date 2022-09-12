@@ -11,7 +11,7 @@
 
 ### Contactame en:
 
-[(./img/gmail.svg)](mailto: jclavijomartinez@gmail.com)
+[(./img/gmail.svg)](jclavijomartinez@gmail.com)
 
 
 
