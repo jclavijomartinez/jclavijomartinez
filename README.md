@@ -3,8 +3,8 @@
 ## Soy Estudiante en la Pontificia Universidad javeirana!!
 
 - 🌱 Estoy Aprendiendo: ROS 🦾
-- 🥅 Meta del 2022: Terminar mi semestre con un promedio de 4.0
-- 🤔 Busco ayuda con: SQL
+- 🥅 Meta del 2023: Terminar mi semestre con un promedio de 4.0
+- 🤔 Busco ayuda con: ROS
 - 💬 Preguntame sobre: Vscode
 - ⚡ Datos curioso sobre mi: Puedo tocar piano 🎹 y me encanta la Formula 1 🏎️
 
@@ -36,9 +36,9 @@
 ### 📺 Algunos recomendados personales:
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
-- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
-- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
-- [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
-- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
+- [¿quieres entrar al mundo de la cyberseguridad? Mira ESTE video](https://www.youtube.com/watch?v=NXpeXn0SKPU)
+- [Todos los caminos conducen a roma, este te lleva a una mejor carrera](https://www.youtube.com/watch?v=uTAaFExLgwQ)
+- [Esta es la historia de uno de los hackers mas peligrosos del mundo...](https://www.youtube.com/watch?v=PlbUYl67LTY)
+- [Esto es a lo que le teme un HACKER](https://www.youtube.com/watch?v=gMDaJMZBo14)
+- [Una de las mejores herramientas que puedes aprender --->](https://www.youtube.com/watch?v=VbEx7B_PTOE)
 <!-- YOUTUBE:END -->
